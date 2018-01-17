@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+	<head>
+		<style>
+			div{
+				color: #ffffff;
+				width : 300px;
+				height : 100px;
+				float : left;
+				margin-top:.5em;
+				margin-left:.5em;
+			}
+		.gradient1{
+			background : linear-gradient(turquoise, #000000);
+		}	
+		.divRadius{
+			border-radius: .25em;
+		}
+		.gradient1:hover{
+			background : linear-gradient(#089e8f, #000000);
+				border-radius: .50em;
+		}
+		div.gradient2{
+			background : linear-gradient(turquoise, transparent, magenta );
+		}
+		div.gradient3{
+			background : linear-gradient(turquoise 30%, transparent 20%, magenta 50%);
+		}
+		div.gradient4{
+			                          /*chrome */
+				background : -webkit-linear-gradient(bottom,turquoise, transparent, magenta);
+				background : -moz-linear-gradient(bottom,turquoise, transparent, magenta);
+					background : -webkit-linear-gradient(bottom,turquoise, transparent, magenta)	
+		}
+		
+		</style>
+	</head>
+	<body>
+		<div class="gradient1 divRadius">1</div>
+		<div class="gradient2">2</div>
+		<div class="gradient3">3</div>
+		<div class="gradient4">4</div>
+		<div class="gradient5">5</div>
+		<div class="gradient6">6</div>
+		
+	</body>
+</html>

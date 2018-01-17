@@ -1,0 +1,76 @@
+{
+  "run": [
+    {
+      "filePath": "/CSS/PROJ02/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 4966775,
+        "displayName": "Run index.html 2",
+        "lastRunTimeStamp": 1516119575554
+      }
+    },
+    {
+      "filePath": "/CSS/PROJ02/webapp/index2.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 2523897,
+        "displayName": "Run index2.html",
+        "lastRunTimeStamp": 1516119469092
+      }
+    },
+    {
+      "filePath": "/CSS/PROJ01/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 7544453,
+        "displayName": "Run index.html 1",
+        "lastRunTimeStamp": 1516030475880
+      }
+    },
+    {
+      "filePath": "/HTML/PROJ01/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 4113800,
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1515599476638
+      }
+    }
+  ]
+}
